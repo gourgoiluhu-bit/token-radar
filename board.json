@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "proto-001",
+    "name": "Protocol 001",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1007.77,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-002",
+    "name": "Protocol 002",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1015.54,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-003",
+    "name": "Protocol 003",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1023.31,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-004",
+    "name": "Protocol 004",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1031.08,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-005",
+    "name": "Protocol 005",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1038.85,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-006",
+    "name": "Protocol 006",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1046.62,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-007",
+    "name": "Protocol 007",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1054.39,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-008",
+    "name": "Protocol 008",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1062.16,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-009",
+    "name": "Protocol 009",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1069.93,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-010",
+    "name": "Protocol 010",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1077.7,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-011",
+    "name": "Protocol 011",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1085.47,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-012",
+    "name": "Protocol 012",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1093.24,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-013",
+    "name": "Protocol 013",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1101.01,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-014",
+    "name": "Protocol 014",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1108.78,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-015",
+    "name": "Protocol 015",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1116.55,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-016",
+    "name": "Protocol 016",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1124.32,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-017",
+    "name": "Protocol 017",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1132.09,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-018",
+    "name": "Protocol 018",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1139.86,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-019",
+    "name": "Protocol 019",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1147.63,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-020",
+    "name": "Protocol 020",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1155.4,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-021",
+    "name": "Protocol 021",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1163.17,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-022",
+    "name": "Protocol 022",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1170.94,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-023",
+    "name": "Protocol 023",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1178.71,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-024",
+    "name": "Protocol 024",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1186.48,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-025",
+    "name": "Protocol 025",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1194.25,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-026",
+    "name": "Protocol 026",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1202.02,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-027",
+    "name": "Protocol 027",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1209.79,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-028",
+    "name": "Protocol 028",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1217.56,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-029",
+    "name": "Protocol 029",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1225.33,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-030",
+    "name": "Protocol 030",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1233.1,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-031",
+    "name": "Protocol 031",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1240.87,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-032",
+    "name": "Protocol 032",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1248.64,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-033",
+    "name": "Protocol 033",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1256.41,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-034",
+    "name": "Protocol 034",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1264.18,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-035",
+    "name": "Protocol 035",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1271.95,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-036",
+    "name": "Protocol 036",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1279.72,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-037",
+    "name": "Protocol 037",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1287.49,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-038",
+    "name": "Protocol 038",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1295.26,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-039",
+    "name": "Protocol 039",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1303.03,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-040",
+    "name": "Protocol 040",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1310.8,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-041",
+    "name": "Protocol 041",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1318.57,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-042",
+    "name": "Protocol 042",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1326.34,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-043",
+    "name": "Protocol 043",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1334.11,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-044",
+    "name": "Protocol 044",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1341.88,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-045",
+    "name": "Protocol 045",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1349.65,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-046",
+    "name": "Protocol 046",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1357.42,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-047",
+    "name": "Protocol 047",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1365.19,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-048",
+    "name": "Protocol 048",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1372.96,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-049",
+    "name": "Protocol 049",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1380.73,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-050",
+    "name": "Protocol 050",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1388.5,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-051",
+    "name": "Protocol 051",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1396.27,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-052",
+    "name": "Protocol 052",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1404.04,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-053",
+    "name": "Protocol 053",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1411.81,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-054",
+    "name": "Protocol 054",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1419.58,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-055",
+    "name": "Protocol 055",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1427.35,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-056",
+    "name": "Protocol 056",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1435.12,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-057",
+    "name": "Protocol 057",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1442.89,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-058",
+    "name": "Protocol 058",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1450.66,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-059",
+    "name": "Protocol 059",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1458.43,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-060",
+    "name": "Protocol 060",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1466.2,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-061",
+    "name": "Protocol 061",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1473.97,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-062",
+    "name": "Protocol 062",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1481.74,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-063",
+    "name": "Protocol 063",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1489.51,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-064",
+    "name": "Protocol 064",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1497.28,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-065",
+    "name": "Protocol 065",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1505.05,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-066",
+    "name": "Protocol 066",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1512.82,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-067",
+    "name": "Protocol 067",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1520.59,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-068",
+    "name": "Protocol 068",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1528.36,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-069",
+    "name": "Protocol 069",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1536.13,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-070",
+    "name": "Protocol 070",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1543.9,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-071",
+    "name": "Protocol 071",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1551.67,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-072",
+    "name": "Protocol 072",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1559.44,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-073",
+    "name": "Protocol 073",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1567.21,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-074",
+    "name": "Protocol 074",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1574.98,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-075",
+    "name": "Protocol 075",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1582.75,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-076",
+    "name": "Protocol 076",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1590.52,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-077",
+    "name": "Protocol 077",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1598.29,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-078",
+    "name": "Protocol 078",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1606.06,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-079",
+    "name": "Protocol 079",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1613.83,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-080",
+    "name": "Protocol 080",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1621.6,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-081",
+    "name": "Protocol 081",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1629.37,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-082",
+    "name": "Protocol 082",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1637.14,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-083",
+    "name": "Protocol 083",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1644.91,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-084",
+    "name": "Protocol 084",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1652.68,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-085",
+    "name": "Protocol 085",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1660.45,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-086",
+    "name": "Protocol 086",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1668.22,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-087",
+    "name": "Protocol 087",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1675.99,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-088",
+    "name": "Protocol 088",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1683.76,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-089",
+    "name": "Protocol 089",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1691.53,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-090",
+    "name": "Protocol 090",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1699.3,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-091",
+    "name": "Protocol 091",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1707.07,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-092",
+    "name": "Protocol 092",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1714.84,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-093",
+    "name": "Protocol 093",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1722.61,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-094",
+    "name": "Protocol 094",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1730.38,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-095",
+    "name": "Protocol 095",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1738.15,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-096",
+    "name": "Protocol 096",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1745.92,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-097",
+    "name": "Protocol 097",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1753.69,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-098",
+    "name": "Protocol 098",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1761.46,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-099",
+    "name": "Protocol 099",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1769.23,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  },
+  {
+    "id": "proto-100",
+    "name": "Protocol 100",
+    "category": "DeFi",
+    "has_token": false,
+    "wrapped_or_staked": false,
+    "implied_value_usd": 1777.0,
+    "farm_plan": [
+      "Check docs",
+      "Bridge funds",
+      "Interact with protocol",
+      "Track snapshot"
+    ]
+  }
+]
